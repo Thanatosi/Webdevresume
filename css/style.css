@@ -60,7 +60,7 @@ body, hmtl {
 }
 
 #topnav a:hover {
-	opacity: .6;
+	opacity: .8;
   font-size: .99em;
   color: white;
 }
